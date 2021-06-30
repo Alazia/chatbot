@@ -1,1 +1,136 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T02:42:27.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Pc65t9Wk-U59DMI1O_vp" version="14.4.8" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">7ZxNc5swEIZ/ja8dkPg8Agbn0lMOPROQbaYy8hASO/31Fbb8uWSm7Uhyw+wpZgU46HlXWr1iPKPZZr/oyu36u6gZnxGn3s/ofEaI6zmR/DNEPo6R0FOBVdfU6qRL4Ln5xVTQUdG3pmavNyf2QvC+2d4GK9G2rOpvYmXXid3taUvBb791W64YCDxXJYfRH03dr1XUDeJLwxNrVmv11REJjw0vZfVz1Ym3Vn1fK1p2bNmUp9uoZ3xdl7XYXYVoPqNZJ0R//LTZZ4wP3XrqseN1xSet53+5Y23/JxcQ14/J8aL3kr+pJ1f/W/9x6gp5kex1eZDu1k3PnrdlNbTsJHgZW/cbLo9c+bF83R5RLJs9k9+RHrph+HRoPj+uIw94+cJ4eu6rTHDRyaZDb8lT+078ZKPBEw0qI8uG89NJM0LJ0n8JKxlfdWXdyE64u8FStH1Rbho+aPKJ8XfWN1WpGpQEXU8dX903yT2XkuEBebNqZayS92ayMRWyL5p+uB0dHgoCUEzeWdez/VVIAVkwsWF99yFPUa0e9b75x4tU5tCIniK7ixLpKVHWVyI8B0ul/tX5/hcZyA9KCZ+rgqIq/nNVuNS+KrwJqUIO5PEh/oVV4btAFaF9VfgTUkVIgyyJvrYqKFAF8e2rIpiQKqYwVlAP1BWefVWEE1JF4USh409NFY+YQaIJqSKP/MAjX1sVsK54xFgRT0gVU6grfDBW2K8rAscBqngCspAP1N/yH6V2zUiFQDcO3SNJ8EQ1bJq65p8J7iIq5+9E9a/4SeGnYaZpKogBXjKG1xuhSzTBdQHcBcLVApfcw/Uc23Ch01ggXDOZ648WcSbhQsMwR7haZt3gHm4wOuuahAt9vznC1QE3BCWV/cyF9l2GcHXAjcAqyv6cC124FOGayVz71TI00xKEa2bOdUf9D5NwoSf2hHT17KWG8X3qurbpQm8rwYFZC90ADsy26brQo0pSLKr04A0B3tg2XuhSIV1NVRWYeCmJLNOFNlWa4XJXD97Hu5AuNKqQrqnk9UbfXDRJFzpVOdI1VFf51ifeEatqjjazobrKt142Q7Mqxx0iPUve6PHJC92qOeLVgxf6Vb7tPSIX+lV5gZv3erLXvzes7I/N0LBCunroUjDzepHlNS+BhlWxwNeq9CQv3AW0nbwEGlZI11TyUtvbgAQaVgvcKjI181p3mwk0rJIUs9dQ3Uxs7/MS6Fil6Glo8jRA9nrW8Y5aVrjs1cPXAaVVbLtyhp7VHNe9uoZnuF1kffaFrlWOSyNtL+IAvtbHZ2hbFVg9G+NLA9t8x160wvzVND679/UVtb2dT0dftUK+huor+3yhdZXg6zjG1kfWx2cKzas0w/WRJr7Qera9LUjH3KsMJ2BNE3Dg3ifw6K+CmQQM/athgMZFkj7GxOY7k/Lw8vuTh7ar3/ek+W8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-30T05:16:10.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="A8egsdalg8rnzV5XxjUs" version="14.8.2" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21677" value="" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FF1100;strokeColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21634" value="样本处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21635" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21636" value="方案1.样本处理报告&lt;br&gt;与数据分析报告分离" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21637" value="方案2.提供1.参数input、2.图片文件input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21638" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21639" value="Materials、 Peptide extraction、 LC-MS/MS analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21640" value="Database search：Fasta；版本号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="570" y="166" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21641" value="Label information：样本数描述、样本信息表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="200" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21642" value="Quantification Methods：校正因子表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="549" y="230" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21644" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179.5" y="170" as="sourcePoint" />
+            <mxPoint x="179.5" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21645" value="数据分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="30" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21647" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21648" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21649" value="Proteome Discoverer 软件分析" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21658" value="冗余" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1;fontColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="710" y="272" width="60" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21659" value="&lt;font color=&quot;#000000&quot;&gt;蛋白鉴定结果&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF1100;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="310" y="309" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21664" value="数据质控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21665" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21666" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;蛋白鉴定数目统计&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="305" y="403.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21667" value="&lt;font color=&quot;#000000&quot;&gt;数据分布情况&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1100;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="305" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21669" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%26gt%3B%26lt%3Bfont%20color%3D%26quot%3B%23000000%26quot%3B%26gt%3B%E8%9B%8B%E7%99%BD%E9%89%B4%E5%AE%9A%E6%95%B0%E7%9B%AE%E7%BB%9F%E8%AE%A1%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fb%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontColor%3D%23FF1100%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22310%22%20y%3D%22414%22%20width%3D%22110%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="320" y="450" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21670" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;cv分析&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="300" y="470" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21674" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;PCA分析&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="305" y="440" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21678" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;分类（pool，技术重复，生物重复）；小提琴图；规范表格&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="375" y="470" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21679" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;标签：样本分组\ batch?&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="375" y="435" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21680" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;柱状图&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="425" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21681" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;密度图；矩阵信息表；离群值处理；处理后密度图&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="410" y="369" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21682" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;规范表格&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="395" y="309" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21683" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;版本号；Fasta；raw文件数&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="500" y="270" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21684" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;整体数据的表达及聚类关系&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="310" y="339" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21687" value="差异分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21688" value="聚类分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21689" value="通路分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21691" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;mfuzz 聚类&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1100;" vertex="1" parent="1">
+          <mxGeometry x="265" y="620" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21694" value="&lt;ul&gt;&lt;li&gt;T-test ：火山图 ；数量统计表 【adjust？fc?】&lt;/li&gt;&lt;li&gt;PCA/UMAP/TSNE ：三选一/？&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="500" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21695" value="" style="endArrow=classic;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9XEIv3CGsJmamrZGXdpV-21697">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="540" as="sourcePoint" />
+            <mxPoint x="570" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21696" value="补充分析：1.差异蛋白间 &lt;br&gt;&amp;nbsp; &amp;nbsp; 2.差异蛋白与提供的蛋白list" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="550" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21697" value="共有蛋白分析" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="610" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21698" value="Venn图，表格" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="880" y="620" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
