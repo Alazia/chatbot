@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T05:16:10.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="A8egsdalg8rnzV5XxjUs" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T05:24:26.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="3bJimSGCs8wnFxUUHNFh" version="14.8.2" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="9XEIv3CGsJmamrZGXdpV-21691" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;mfuzz 聚类&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1100;" vertex="1" parent="1">
           <mxGeometry x="265" y="620" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9XEIv3CGsJmamrZGXdpV-21694" value="&lt;ul&gt;&lt;li&gt;T-test ：火山图 ；数量统计表 【adjust？fc?】&lt;/li&gt;&lt;li&gt;PCA/UMAP/TSNE ：三选一/？&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21694" value="&lt;ul&gt;&lt;li&gt;T-test ：火山图 ；数量统计表 【adjust？fc?】&lt;/li&gt;&lt;li&gt;PCA/UMAP/TSNE ：三选一/？&lt;/li&gt;&lt;li&gt;差异蛋白X对比分组 Heatmap&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="250" y="500" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9XEIv3CGsJmamrZGXdpV-21695" value="" style="endArrow=classic;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9XEIv3CGsJmamrZGXdpV-21697">
@@ -129,6 +129,21 @@
         </mxCell>
         <mxCell id="9XEIv3CGsJmamrZGXdpV-21698" value="Venn图，表格" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="880" y="620" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21700" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="70" width="100" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21701" value="" style="shape=flexArrow;endArrow=classic;html=1;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="410" as="sourcePoint" />
+            <mxPoint x="930" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21702" value="Output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="819" y="383.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XEIv3CGsJmamrZGXdpV-21703" value="&lt;ul&gt;&lt;li&gt;密度图&lt;/li&gt;&lt;li&gt;处理后密度图&lt;/li&gt;&lt;li&gt;整体heatmap&lt;/li&gt;&lt;li&gt;数目统计柱状图&lt;/li&gt;&lt;li&gt;PCA分析图&lt;/li&gt;&lt;li&gt;小提琴图&lt;/li&gt;&lt;li&gt;cv表&lt;/li&gt;&lt;li&gt;火山图&lt;/li&gt;&lt;li&gt;ttest表&amp;nbsp;&lt;/li&gt;&lt;li&gt;差异蛋白&lt;/li&gt;&lt;li&gt;PCA|UMAP..&lt;/li&gt;&lt;li&gt;Heatmap图&lt;/li&gt;&lt;li&gt;mfuzz图&lt;/li&gt;&lt;li&gt;Venn图&lt;/li&gt;&lt;li&gt;通路分析图&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="980" y="90" width="120" height="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
